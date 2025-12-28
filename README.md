@@ -1,3 +1,3 @@
 # WaveletCast
 
-This is the official repo for HeatPre.
+This is the official repo for WaveletCast.
